@@ -10,7 +10,7 @@ here is a simple backend using node.js following CRUD functionality with the use
 We have to install all dependencies .
 
 ```bash
-npm install
+npm install // make sure to run this command
 npm start 
 
 ##run these 2 commands to make sure you have everything to run the application.
